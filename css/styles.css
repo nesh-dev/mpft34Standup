@@ -126,6 +126,19 @@ body {
     border-radius: 16px !important;
 }
 
+.mail-list {
+    margin-top: 100px;
+}
+
 .fixed-card {
 
+}
+
+.required {
+    width: 100%
+}
+
+textarea {
+    margin-top: 20px;
+    width: 100%;
 }
